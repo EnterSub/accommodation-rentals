@@ -1,2 +1,2 @@
 # accommodation-rentals
-Project as part of professional DS certifitication
+[Rental project](https://rentalproject.workinds.com)
